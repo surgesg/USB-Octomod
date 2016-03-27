@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/usb_octomod/!svn/ver/3/trunk/USB_Octomod_Arduino
+END
+spi.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/usb_octomod/!svn/ver/3/trunk/USB_Octomod_Arduino/spi.h
+END
+USB_Octomod_Arduino.pde
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/usb_octomod/!svn/ver/3/trunk/USB_Octomod_Arduino/USB_Octomod_Arduino.pde
+END
+spi.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/usb_octomod/!svn/ver/3/trunk/USB_Octomod_Arduino/spi.c
+END

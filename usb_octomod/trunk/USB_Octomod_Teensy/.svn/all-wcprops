@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/usb_octomod/!svn/ver/3/trunk/USB_Octomod_Teensy
+END
+spi.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/usb_octomod/!svn/ver/3/trunk/USB_Octomod_Teensy/spi.h
+END
+USB_Octomod_Teensy.pde
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/usb_octomod/!svn/ver/3/trunk/USB_Octomod_Teensy/USB_Octomod_Teensy.pde
+END
+spi.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/usb_octomod/!svn/ver/3/trunk/USB_Octomod_Teensy/spi.c
+END
